@@ -26,7 +26,7 @@ local cuda_bin=pathJoin(cuda_dir,"bin")
 local gcc_bin=pathJoin(gcc_dir,"bin")
 
 local cuda_lib=pathJoin(cuda_dir,"lib64")
-local gc_lib=pathJoin(gcc_dir,"lib64")
+local gcc_lib=pathJoin(gcc_dir,"lib")
 
 local cuda_inc=pathJoin(cuda_dir,"include")
 
