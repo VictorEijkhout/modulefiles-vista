@@ -50,4 +50,3 @@ prepend_path("CPATH"          ,cuda_inc)
 -- Adding to MODULEPATH for CUDA-dependent packages
 prepend_path("MODULEPATH"     ,pathJoin("/opt/apps","nvidia24", "cuda12","modulefiles"))
 add_property("arch","gpu")
-
