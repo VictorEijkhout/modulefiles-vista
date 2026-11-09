@@ -9,8 +9,8 @@ The petsc modulefile defines the following variables:
     TACC_PETSC_DIR, TACC_PETSC_LIB, TACC_PETSC_INC.
 Discoverable by CMake through pkg-config.
 
-External packages: chaco eigen fftw hdf5 hypre kokkos mumps metis parmetis scalapack mumps ptscotch
-(modulefile generated 2026-07-07)
+External packages: chaco eigen fftw hdf5 hypre kokkos cuda mumps metis parmetis ptscotch
+(modulefile generated 2026-10-14)
 ]]
 
 whatis( "Name: petsc" )
